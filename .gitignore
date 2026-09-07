@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+dcase2026_task2_evaluator/
+
+# Résultats et logs volumineux (régénérables via run_all.sh)
+archive_v1/
+asd_results_dev/
+asd_results_eval/
+e0_results/
+results_dev.csv
+results_eval.csv
+run_all.log
+run_cnn_*.log
